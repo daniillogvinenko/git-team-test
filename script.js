@@ -8,6 +8,6 @@ if (Math.random() < 0.5) {
 
 console.log("4");
 
-console.log("4");
+console.log("4 fix");
 
 console.log("feature 5");
